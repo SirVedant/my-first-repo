@@ -1,2 +1,2 @@
 # my-first-repo
-rough work
+this is my first repository
